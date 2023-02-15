@@ -9,6 +9,9 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 我们希望您发现这些调教指南很有用，并能从使用 ChatGPT 中获得乐趣！
 
+体验地址:
+http://chatgpt.heqikeji.com/
+
 **[在 GitHub 上查看](github.com/cubeking/ChatGPT-Prompts)**
 
 
@@ -49,9 +52,9 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
 
-项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
-|                    直接加群                     |                        体验公众号                          |
+|                    直接加群                     |                        体验二维码                          |
+
 | :---------------------------------------------------------- | :----------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png" width="300"/> | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/1.png" width="300"/>  |
 
