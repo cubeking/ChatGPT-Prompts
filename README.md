@@ -53,7 +53,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 |                    直接加群                     |                        体验公众号                          |
 | :---------------------------------------------------------- | :----------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png)](https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png)" width="300"/> | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png)" width="300"/>  |
+| <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png" width="300"/> | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/1.png" width="300"/>  |
 
 
 # 正经指南
