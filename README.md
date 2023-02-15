@@ -51,21 +51,9 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
-|                    直接加群                     |               如果前面的无法使用，加我拉你入群               |                          体验公众号                          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/15922823/218474463-827042d2-a88b-4ac1-a00d-6175fc53ed44.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> | ![image](https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png) |
-  
- 
-
-
-## 捐赠支持
-
-您好，我们非常感激您对此项目的关注和支持。我们一直在努力，提供最有价值和易于理解的指南。如果您觉得我们的项目对您有所帮助，请考虑捐赠支持我们。您的捐赠将帮助我们不断完善项目内容，为您提供更好的服务，并吸引更多的读者和使用者。谢谢您的支持！
-
-| 加入星球         | 微信         | 支付宝           |  
-| ------------ | ------------ | --------------- |  
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/215301134-1021dc8e-fdd8-4eec-bae4-05ec4a529b42.png" width="300"/> |  
-
+|                    直接加群                     |                        体验公众号                          |
+| :---------------------------------------------------------- | :----------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png)](https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png)" width="300"/> | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png)" width="300"/>  |
 
 
 # 正经指南
