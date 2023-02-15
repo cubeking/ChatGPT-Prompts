@@ -54,7 +54,6 @@ http://chatgpt.heqikeji.com/
 
 
 |                    直接加群                     |                        体验二维码                          |
-
 | :---------------------------------------------------------- | :----------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/2.png" width="300"/> | <img src="https://raw.githubusercontent.com/cubeking/ChatGPT-Prompts/main/1.png" width="300"/>  |
 
